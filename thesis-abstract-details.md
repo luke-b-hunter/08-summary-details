@@ -1,4 +1,4 @@
-# A happening on Slovinska
+# A happening on Slovenian street 
 
 ___
 
