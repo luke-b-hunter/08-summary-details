@@ -26,3 +26,5 @@ All people living in Prague are welcome. The meeting will take place on Slovenia
 * The goal is to create a visual design for my own political party. This party should be flexible in a way, where it can react to other political problems, the routes it can take are many. The party can cooperate with other frivolous parties or it can turn into a real political party. 
 
 Keywords: frivolousness, political party, visual style, movement
+
+![](Slovinska.png)
