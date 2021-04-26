@@ -1,5 +1,6 @@
 # A happening on Slovenian street 
 
+![](Happening.png)
 ___
 
 *by Lukas Hunter*
